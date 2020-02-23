@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangqingle.github.io/"/>
-  <updated>2020-02-23T09:11:43.145Z</updated>
+  <updated>2020-02-23T12:35:16.122Z</updated>
   <id>https://zhangqingle.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Hello Spring Boot</title>
     <link href="https://zhangqingle.github.io/2020/02/23/hello/"/>
     <id>https://zhangqingle.github.io/2020/02/23/hello/</id>
-    <published>2020-02-23T09:11:20.154Z</published>
-    <updated>2020-02-23T09:11:43.145Z</updated>
+    <published>2020-02-23T12:31:00.000Z</published>
+    <updated>2020-02-23T12:35:16.122Z</updated>
     
     <summary type="html">
     
@@ -30,12 +30,16 @@
         
         
           &lt;h1 id=&quot;Leo’s-Blog&quot;&gt;&lt;a href=&quot;#Leo’s-Blog&quot; class=&quot;headerlink&quot; title=&quot;Leo’s Blog&quot;&gt;&lt;/a&gt;Leo’s Blog&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;Hello
+&lt;p&gt;Hello Spring
         
       
     
     </summary>
     
+      <category term="Spring Boot" scheme="https://zhangqingle.github.io/categories/Spring-Boot/"/>
+    
+    
+      <category term="Spring Boot" scheme="https://zhangqingle.github.io/tags/Spring-Boot/"/>
     
   </entry>
   
